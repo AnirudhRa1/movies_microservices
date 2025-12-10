@@ -1,0 +1,9 @@
+D:\movie_app_copilot\user-service\src\main\java\com\example\user\dto\UserDTO.java
+D:\movie_app_copilot\user-service\src\main\java\com\example\user\repository\UserRepository.java
+D:\movie_app_copilot\user-service\src\main\java\com\example\user\exception\GlobalExceptionHandler.java
+D:\movie_app_copilot\user-service\src\main\java\com\example\user\exception\ResourceNotFoundException.java
+D:\movie_app_copilot\user-service\src\main\java\com\example\user\model\UserType.java
+D:\movie_app_copilot\user-service\src\main\java\com\example\user\service\UserService.java
+D:\movie_app_copilot\user-service\src\main\java\com\example\user\UserServiceApplication.java
+D:\movie_app_copilot\user-service\src\main\java\com\example\user\model\User.java
+D:\movie_app_copilot\user-service\src\main\java\com\example\user\controller\UserController.java
